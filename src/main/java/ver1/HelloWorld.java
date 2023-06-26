@@ -10,4 +10,7 @@ public class HelloWorld{
         System.out.println(Msg);
     }
 
+    public static void whatFor(String stringArg){
+        System.out.println(stringArg + ", what for?");
+    }
 }
